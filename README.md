@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Backend Developer at Compass Uol<br>👨‍💻 Graduating in Computer Science at UFFS<br>☁️ 1x AWS Certified (Cloud Practitioner)</p>
+<p align="left">💻 Backend Developer<br>👨‍💻 Graduating in Computer Science at UFFS<br>☁️ 1x AWS Certified (Cloud Practitioner)</p>
 
 ###
 
